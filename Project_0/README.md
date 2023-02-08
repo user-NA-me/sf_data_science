@@ -4,6 +4,7 @@
 [1. Описание проекта](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Описание-проекта)
 [2. Какой кейс решаем](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Какой-кейс-решаем)
 [3. Этапы работы над проектом](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Этапы-работы-над-проектом)
+[4. Вывод](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Вывод)
 
 ### Описание проекта
 Необходимо угадать загаданное компьютером число за минимальное количество 
@@ -24,7 +25,7 @@
 
 **Что практикуем**
 - Учимся писать хороший код на Python. 
-- Закрепляем знания по работе с Git, GitHub, Jypiter.
+- Закрепляем знания по работе с Git, GitHub, Jupyter.
 
 :arrow_up: [к оглавлению](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Оглавление)
 
@@ -35,3 +36,6 @@
 - Оформление страницы проекта на GitHub
 
 :arrow_up: [к оглавлению](https://github.com/user-NA-me/sf_data_science/tree/main/Project_0/README.md#Оглавление)
+
+### Вывод
+Умение работать с широко распространенными в IT-сфере инструментами и сервисами, является обязательнвым для специалиста Data Science. Курс онлайн-школы Skill Factory позволяет приобрести данное умение базового уровня, с перспективой дальнейшего развития. 
